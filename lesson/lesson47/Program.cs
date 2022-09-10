@@ -23,6 +23,6 @@ void PrintArray (double[,]array)
     Console.WriteLine();
    }
 }
-
-
+double[,]result = GetArray(rows,columns,-10,10);
+PrintArray(array);
 
