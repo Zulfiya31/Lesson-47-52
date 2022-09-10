@@ -25,6 +25,4 @@ void PrintArray (double[,]array)
 }
 
 
-PrintArray (array);
-double[,]result=GetArray(rows,columns,-10,10);
-PrintArray(result);
+
