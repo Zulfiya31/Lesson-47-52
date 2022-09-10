@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\47-52\lesson\lesson47\obj\Debug\net6.0\lesson47.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\47-52\lesson\lesson47\obj\Debug\net6.0\lesson47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\47-52\lesson\lesson47\obj\Debug\net6.0\lesson47.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\47-52\lesson\lesson47\obj\Debug\net6.0\lesson47.AssemblyInfo.cs
+C:\Users\user1\Desktop\47-52\lesson\lesson47\obj\Debug\net6.0\lesson47.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\47-52\lesson\lesson47\bin\Debug\net6.0\lesson47.exe
+C:\Users\user1\Desktop\47-52\lesson\lesson47\bin\Debug\net6.0\lesson47.deps.json
+C:\Users\user1\Desktop\47-52\lesson\lesson47\bin\Debug\net6.0\lesson47.runtimeconfig.json
+C:\Users\user1\Desktop\47-52\lesson\lesson47\bin\Debug\net6.0\lesson47.dll
+C:\Users\user1\Desktop\47-52\lesson\lesson47\bin\Debug\net6.0\lesson47.pdb
+C:\Users\user1\Desktop\47-52\lesson\lesson47\obj\Debug\net6.0\lesson47.dll
+C:\Users\user1\Desktop\47-52\lesson\lesson47\obj\Debug\net6.0\refint\lesson47.dll
+C:\Users\user1\Desktop\47-52\lesson\lesson47\obj\Debug\net6.0\lesson47.pdb
+C:\Users\user1\Desktop\47-52\lesson\lesson47\obj\Debug\net6.0\lesson47.genruntimeconfig.cache
+C:\Users\user1\Desktop\47-52\lesson\lesson47\obj\Debug\net6.0\ref\lesson47.dll
