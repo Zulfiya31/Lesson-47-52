@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\obj\Debug\net6.0\lesson 52.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\obj\Debug\net6.0\lesson 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\obj\Debug\net6.0\lesson 52.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\obj\Debug\net6.0\lesson 52.AssemblyInfo.cs
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\obj\Debug\net6.0\lesson 52.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\bin\Debug\net6.0\lesson 52.exe
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\bin\Debug\net6.0\lesson 52.deps.json
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\bin\Debug\net6.0\lesson 52.runtimeconfig.json
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\bin\Debug\net6.0\lesson 52.dll
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\bin\Debug\net6.0\lesson 52.pdb
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\obj\Debug\net6.0\lesson 52.dll
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\obj\Debug\net6.0\refint\lesson 52.dll
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\obj\Debug\net6.0\lesson 52.pdb
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\obj\Debug\net6.0\lesson 52.genruntimeconfig.cache
+C:\Users\user1\Desktop\47-52\lesson\lesson 52\obj\Debug\net6.0\ref\lesson 52.dll
